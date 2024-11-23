@@ -1,0 +1,5 @@
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Persistance.Postgres/obj/Debug/net6.0/BaseBackend.Persistance.Postgres.csproj.AssemblyReference.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Persistance.Postgres/obj/Debug/net6.0/BaseBackend.Persistance.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Persistance.Postgres/obj/Debug/net6.0/BaseBackend.Persistance.Postgres.AssemblyInfoInputs.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Persistance.Postgres/obj/Debug/net6.0/BaseBackend.Persistance.Postgres.AssemblyInfo.cs
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Persistance.Postgres/obj/Debug/net6.0/BaseBackend.Persistance.Postgres.csproj.CoreCompileInputs.cache

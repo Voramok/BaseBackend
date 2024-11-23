@@ -1,0 +1,17 @@
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Infrastructure.deps.json
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Infrastructure.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/ref/BaseBackend.Infrastructure.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Infrastructure.pdb
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Application.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Core.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Application.pdb
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/bin/Debug/net6.0/BaseBackend.Core.pdb
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.csproj.AssemblyReference.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.AssemblyInfoInputs.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.AssemblyInfo.cs
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.csproj.CopyComplete
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/ref/BaseBackend.Infrastructure.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Infrastructure/obj/Debug/net6.0/BaseBackend.Infrastructure.pdb

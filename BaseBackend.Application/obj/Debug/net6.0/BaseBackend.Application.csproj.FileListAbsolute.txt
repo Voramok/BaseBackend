@@ -1,0 +1,15 @@
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/BaseBackend.Application.deps.json
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/BaseBackend.Application.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/ref/BaseBackend.Application.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/BaseBackend.Application.pdb
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/BaseBackend.Core.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/bin/Debug/net6.0/BaseBackend.Core.pdb
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.csproj.AssemblyReference.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.AssemblyInfoInputs.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.AssemblyInfo.cs
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.csproj.CoreCompileInputs.cache
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.csproj.CopyComplete
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/ref/BaseBackend.Application.dll
+/Users/voramok/Documents/Projects/BaseBackend/BaseBackend.Application/obj/Debug/net6.0/BaseBackend.Application.pdb
